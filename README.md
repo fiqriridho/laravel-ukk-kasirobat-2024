@@ -27,4 +27,4 @@ This project was developed as part of the UKK assessment using Laravel framework
    php artisan serve
 
 ## Database
-SQL dump available in /database/sql (if included).
+SQL dump available in database/sql/ukk2024_fiqri_200.sql.
